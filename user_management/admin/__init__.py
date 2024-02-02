@@ -1,0 +1,2 @@
+from user_management.admin.user import UserAdmin
+from user_management.admin.email_confirmation import EmailConfirmationAdmin
